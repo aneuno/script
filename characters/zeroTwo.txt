@@ -1,0 +1,18 @@
+Zero Two — Fiche de personnage
+
+Passifs
+
+Passif 1 — Régénération
+Récupère 5 % de ses PV maximum à chaque tour.
+
+Passif 2 — Survie
+Lorsqu'une attaque devrait lui infliger des dégâts mortels, Zero Two survit et remonte immédiatement à 50 % de ses PV maximum.
+
+Compétences
+
+Compétence 3 — Contre-attaque
+Zero Two ne fait rien pendant un tour. Si elle subit une attaque pendant ce tour, elle renvoie à l'attaquant des dégâts équivalents à 2 fois les dégâts subis.
+
+Identité du personnage
+
+Zero Two est conçue pour exceller dans les équipes qui reposent sur la prise de dégâts. Elle est peu adaptée aux compositions classiques qui utilisent un tank pour protéger le reste de l'équipe.
