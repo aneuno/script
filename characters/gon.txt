@@ -1,0 +1,7 @@
+1th attack : pomme de la main. fait des degats et stun l'ennemi pendant 1 tour.
+2rd attack : canne a peche.
+3rd attack : jajanken {
+  rock :
+  scissor :
+  paper :
+}
