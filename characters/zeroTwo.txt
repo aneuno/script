@@ -5,8 +5,8 @@ Passifs
 Passif 1 — Régénération
 Récupère 5 % de ses PV maximum à chaque tour.
 
-Passif 2 — Survie
-Lorsqu'une attaque devrait lui infliger des dégâts mortels, Zero Two survit et remonte immédiatement à 50 % de ses PV maximum.
+Passif 2 — Darling
+inflige a tout ses coequipiers 5% de degats selon leurs pv maximum et heal zero two de 10% de ses pv maximum.
 
 Compétences
 
