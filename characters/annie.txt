@@ -1,1 +1,5 @@
+HP : 6958
+ATK : 3078
+DEF : 3654
+
 3rd attack : elle a un ton tank. elle est inutilisable pendant quelques tours. elle agro TOUTES les attaques des adversaires. 0 degats.
