@@ -1,1 +1,19 @@
+neutral physical human
 
+HP 7524
+ATK 3972
+DEF 3091
+
+
+ART
+// 25000% physical damage to one ennemy.
+
+TRUE ART
+// 50000% physical damage to one ennemy. for 2 turn, increase own DMG by 100% & increase own DEF by 20%.
+
+SUPER ART (excalibur)
+// 220000% physical DMG to all ennemy. during this attack, increase own super CRIT rate by 100%.
+
+
+PASSIVES
+// +20% DMG against bosses.
