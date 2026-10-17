@@ -12,7 +12,7 @@ TRUE ART
 // 50000% physical damage to one ennemy. for 2 turn, increase own DMG by 100% & increase own DEF by 20%.
 
 SUPER ART (excalibur)
-// 220000% physical DMG to all ennemy. during this attack, increase own super CRIT rate by 100%.
+// 190000% physical DMG to all ennemy. during this attack, increase own super CRIT rate by 100%.
 
 
 PASSIVES
